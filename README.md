@@ -1,3 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xpri.1085268011">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;this+is+James+Aspilcueta....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 # 💫 About Me:
 Hello! I am James, a hands-on builder who loves combining mechanical design, electronics, and code to bring ideas to life. I’m currently studying mechanical engineering and spend most of my free time tinkering with Arudino, scopes, and robotics projects.
 
