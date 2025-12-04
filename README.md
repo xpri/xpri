@@ -7,7 +7,7 @@
 </h1>
 
 # 💫 About Me:
-Hello! I am James, a hands-on builder who loves combining mechanical design, electronics, and code to bring ideas to life. I’m currently studying mechanical engineering and spend most of my free time tinkering with Arudino, scopes, and robotics projects.
+Hello! I am James, a hands-on builder who loves combining mechanical design, electronics, and code to bring ideas to life. I’m currently studying mechanical engineering and spend most of my free time tinkering with Arudino, Linux, and robotics projects.
 
 
 ## 🌐 Socials:
